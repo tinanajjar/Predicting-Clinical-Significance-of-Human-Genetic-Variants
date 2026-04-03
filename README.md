@@ -10,7 +10,7 @@ Exploratory analysis using PyMongo
 
 The dataset is sourced from ClinVar, a public archive of human genetic variants and their clinical significance.
 
-#🧩 Part 1: Data Ingestion
+🧩 Part 1: Data Ingestion
 
 This section focuses on loading a large TSV dataset into MongoDB efficiently.
 
