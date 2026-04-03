@@ -1,4 +1,3 @@
-# Predicting-Clinical-Significance-of-Human-Genetic-Variants
 <h1 align="center">🔬 Predicting Clinical Significance of Human Genetic Variants</h1>
 
 <p align="center">
