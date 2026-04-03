@@ -1,161 +1,30 @@
-<h2>📂 ClinVar Tab-Delimited Files</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Size</th>
-      <th>Released</th>
-      <th>Last Modified</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><code>supplements/</code></td>
-      <td>-</td>
-      <td>-</td>
-      <td>2021-12-03 09:41:31</td>
-    </tr>
-    <tr>
-      <td><code>special_requests/</code></td>
-      <td>-</td>
-      <td>-</td>
-      <td>2021-12-03 09:41:31</td>
-    </tr>
-    <tr>
-      <td><code>archive/</code></td>
-      <td>-</td>
-      <td>-</td>
-      <td>2026-04-02 00:05:39</td>
-    </tr>
-    <tr>
-      <td><code>allele_gene.txt.gz</code></td>
-      <td>90,115,778</td>
-      <td>2024-03-31 05:31:50</td>
-      <td>2026-03-29 00:17:49</td>
-    </tr>
-    <tr>
-      <td><code>allele_gene.txt.gz.md5</code></td>
-      <td>87</td>
-      <td>2024-03-31 19:46:12</td>
-      <td>2026-03-30 17:27:59</td>
-    </tr>
-    <tr>
-      <td><code>cross_references.txt</code></td>
-      <td>111,548,554</td>
-      <td>2024-03-31 04:43:28</td>
-      <td>2026-03-28 23:14:08</td>
-    </tr>
-    <tr>
-      <td><code>cross_references.txt.md5</code></td>
-      <td>89</td>
-      <td>2024-03-31 19:46:01</td>
-      <td>2026-03-30 17:27:59</td>
-    </tr>
-    <tr>
-      <td><code>gene_specific_summary.txt</code></td>
-      <td>3,480,522</td>
-      <td>2024-03-31 04:45:50</td>
-      <td>2026-03-28 23:11:24</td>
-    </tr>
-    <tr>
-      <td><code>gene_specific_summary.txt.md5</code></td>
-      <td>94</td>
-      <td>2024-03-31 19:46:01</td>
-      <td>2026-03-30 17:28:05</td>
-    </tr>
-    <tr>
-      <td><code>hgvs4variation.txt.gz</code></td>
-      <td>513,308,848</td>
-      <td>2024-03-31 05:04:34</td>
-      <td>2026-03-28 23:54:01</td>
-    </tr>
-    <tr>
-      <td><code>hgvs4variation.txt.gz.md5</code></td>
-      <td>90</td>
-      <td>2024-03-31 19:46:09</td>
-      <td>2026-03-30 17:28:11</td>
-    </tr>
-    <tr>
-      <td><code>organization_summary.txt</code></td>
-      <td>881,891</td>
-      <td>2024-03-31 04:52:33</td>
-      <td>2026-03-29 00:32:17</td>
-    </tr>
-    <tr>
-      <td><code>organization_summary.txt.md5</code></td>
-      <td>93</td>
-      <td>2024-03-31 19:46:06</td>
-      <td>2026-03-30 17:27:58</td>
-    </tr>
-    <tr>
-      <td><code>README</code></td>
-      <td>47,147</td>
-      <td>2024-03-07 04:06:55</td>
-      <td>2026-01-13 16:25:43</td>
-    </tr>
-    <tr>
-      <td><code>submission_summary.txt.gz</code></td>
-      <td>373,962,702</td>
-      <td>2021-11-30 02:41:14</td>
-      <td>2026-03-29 01:02:22</td>
-    </tr>
-    <tr>
-      <td><code>submission_summary.txt.gz.md5</code></td>
-      <td>94</td>
-      <td>2024-03-31 19:46:08</td>
-      <td>2026-03-30 17:28:04</td>
-    </tr>
-    <tr>
-      <td><code>summary_of_conflicting_interpretations.txt</code></td>
-      <td>1,686,144,292</td>
-      <td>2021-11-30 02:39:52</td>
-      <td>2026-03-30 11:47:37</td>
-    </tr>
-    <tr>
-      <td><code>summary_of_conflicting_interpretations.txt.md5</code></td>
-      <td>111</td>
-      <td>2024-03-31 19:46:21</td>
-      <td>2026-03-30 17:28:22</td>
-    </tr>
-    <tr>
-      <td><code>var_citations.txt</code></td>
-      <td>226,509,447</td>
-      <td>2024-03-31 04:44:43</td>
-      <td>2026-03-28 23:13:41</td>
-    </tr>
-    <tr>
-      <td><code>var_citations.txt.md5</code></td>
-      <td>86</td>
-      <td>2024-03-31 19:46:05</td>
-      <td>2026-03-30 17:27:53</td>
-    </tr>
-    <tr>
-      <td><code>variant_summary.txt.gz</code></td>
-      <td>435,575,707</td>
-      <td>2024-03-31 19:30:16</td>
-      <td>2026-03-29 04:11:50</td>
-    </tr>
-    <tr>
-      <td><code>variant_summary.txt.gz.md5</code></td>
-      <td>91</td>
-      <td>2024-03-31 19:46:01</td>
-      <td>2026-03-30 17:27:54</td>
-    </tr>
-    <tr>
-      <td><code>variation_allele.txt.gz</code></td>
-      <td>23,761,615</td>
-      <td>2024-03-31 05:03:31</td>
-      <td>2026-03-28 23:33:56</td>
-    </tr>
-    <tr>
-      <td><code>variation_allele.txt.gz.md5</code></td>
-      <td>92</td>
-      <td>2024-03-31 19:46:11</td>
-      <td>2026-03-30 17:27:52</td>
-    </tr>
-  </tbody>
-</table>
+					Index of /pub/clinvar/tab_delimited
+Name							Size	             Released		Last Modified
+Parent Directory				
+supplements/											2021-12-03 09:41:31
+special_requests/										2021-12-03 09:41:31
+archive/											2026-04-02 00:05:39
+allele_gene.txt.gz					90,115,778	2024-03-31 05:31:50	2026-03-29 00:17:49
+allele_gene.txt.gz.md5					87		2024-03-31 19:46:12	2026-03-30 17:27:59
+cross_references.txt					111,548,554	2024-03-31 04:43:28	2026-03-28 23:14:08
+cross_references.txt.md5				89		2024-03-31 19:46:01	2026-03-30 17:27:59
+gene_specific_summary.txt				3,480,522	2024-03-31 04:45:50	2026-03-28 23:11:24
+gene_specific_summary.txt.md5				94		2024-03-31 19:46:01	2026-03-30 17:28:05
+hgvs4variation.txt.gz					513,308,848	2024-03-31 05:04:34	2026-03-28 23:54:01
+hgvs4variation.txt.gz.md5				90		2024-03-31 19:46:09	2026-03-30 17:28:11
+organization_summary.txt				881,891		2024-03-31 04:52:33	2026-03-29 00:32:17
+organization_summary.txt.md5				93		2024-03-31 19:46:06	2026-03-30 17:27:58
+README							47,147		2024-03-07 04:06:55	2026-01-13 16:25:43
+submission_summary.txt.gz				373,962,702	2021-11-30 02:41:14	2026-03-29 01:02:22
+submission_summary.txt.gz.md5				94		2024-03-31 19:46:08	2026-03-30 17:28:04
+summary_of_conflicting_interpretations.txt		1,686,144,292	2021-11-30 02:39:52	2026-03-30 11:47:37
+summary_of_conflicting_interpretations.txt.md5		111		2024-03-31 19:46:21	2026-03-30 17:28:22
+var_citations.txt					226,509,447	2024-03-31 04:44:43	2026-03-28 23:13:41
+var_citations.txt.md5					86		2024-03-31 19:46:05	2026-03-30 17:27:53
+variant_summary.txt.gz					435,575,707	2024-03-31 19:30:16	2026-03-29 04:11:50
+variant_summary.txt.gz.md5				91		2024-03-31 19:46:01	2026-03-30 17:27:54
+variation_allele.txt.gz					23,761,615	2024-03-31 05:03:31	2026-03-28 23:33:56
+variation_allele.txt.gz.md5				92		2024-03-31 19:46:11	2026-03-30 17:27:52
 ----------------------------------------------------------------------------------------------------------
 https://ftp.ncbi.nlm.nih.gov/pub/clinvar/tab_delimited/
 
