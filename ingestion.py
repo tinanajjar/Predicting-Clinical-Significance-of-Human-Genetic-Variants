@@ -16,7 +16,7 @@ batch = []
 batch_size = 5000
 
 with gzip.open(r"C:\Users\HP\Desktop\big data project\variant_summary.txt.gz", "rt") as file:
-    reader = csv.DictReader(file)
+    reader = csv.DictReader(file, delimiter="\t")
 
     for row in reader:
         batch.append(row)
